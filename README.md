@@ -1,0 +1,2 @@
+# Transient_responce_of_LCR_using_Bisection_Method
+Transient response of LCR using Bisection Method
